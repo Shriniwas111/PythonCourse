@@ -19,7 +19,12 @@ word2 = "Truck"
 # Expected Result Printed: omputerTuck
 
 # Your code below:
+word1 = "computer"
+word2 = "Truck"
+result = word1[1:] + word2[0:1] + word2[2:]
+print(result)
 
+      
 
 
 
