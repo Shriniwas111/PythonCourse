@@ -23,6 +23,10 @@ word = "Cool"
 
 
 # Your code below:
+size = len(chars)
+ idx = int(size/2) # dividing results in a float datatype.
+ print(chars[:idx] + word + chars[idx:])
+
 
 
 
