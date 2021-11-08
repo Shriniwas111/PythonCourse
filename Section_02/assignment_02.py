@@ -11,7 +11,9 @@ who owns a bike, a laptop and boat.
 
 # your code below:
 
-
+my_list= [{"Tom":{"Salary" : "20000" ,"age" : "22" , ["Car" ,"TV" ,"jacket:]}},
+            {"Mike":{ "Salary" : "24000" ,"age" = "27" ,[ "bike" , "Laptop" ,"Boat"]}}]
+                                                        
 
 
 
