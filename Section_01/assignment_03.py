@@ -22,7 +22,8 @@ word = "Cool"
 
 # Your code below:
 
-
+print(<<hello>>)
+print([[wool]])
 
 
 
